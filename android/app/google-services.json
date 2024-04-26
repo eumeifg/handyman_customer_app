@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "604082092035",
+    "project_id": "sun3ah-c0d97",
+    "storage_bucket": "sun3ah-c0d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604082092035:android:b51da9c49f931562ea3636",
+        "android_client_info": {
+          "package_name": "com.creativeadvtech.sunaah_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604082092035-701casqhta07dglcagu041sht0vq5gk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-WfSV8B5W5VNITzHTVqQsdbnAS2JA3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604082092035-701casqhta07dglcagu041sht0vq5gk5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604082092035-lava0l2glv6jt37pa6elgm5fucc0d2g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creativeadvtech.sunaah-provider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
